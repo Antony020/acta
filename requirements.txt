@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+pdf2image
+pandas
+openpyxl
+opencv-python-headless
+Pillow
